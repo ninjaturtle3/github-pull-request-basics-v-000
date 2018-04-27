@@ -112,3 +112,6 @@ commits will be added automatically.
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/github-pull-request-basics' title='Github Pull Request Basics'>Github Pull Request Basics</a> on Learn.co and start learning to code for free.</p>
 
 [pr]: https://github.com/ruby/ruby/pull/1051
+
+
+This is a new change that is to be added and committed and finally pushed
