@@ -116,4 +116,4 @@ commits will be added automatically.
 
 This is a new change that is to be added and committed and finally pushed
 
-oops! not to worry! when you find a mistake simply fix it and then commit and push...since the pull request already exists the repo will be automatically updated 
+oops! not to worry! when you find a mistake simply fix it and add it and then commit and push...since the pull request already exists the repo will be automatically updated 
